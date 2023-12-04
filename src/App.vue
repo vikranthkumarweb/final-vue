@@ -1,7 +1,7 @@
 <template>
-  <!-- Step 3: use the component -->
-  <BillionairesHeader title="Billionaires Index" />
-  <BillionairesList :billionaires=billionaires />
+    <!-- Step 3: use the component -->
+    <BillionairesHeader title="Billionaires Index" />
+    <BillionairesList :billionaires=billionaires />
 </template>
 
 <script>
